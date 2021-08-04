@@ -1,4 +1,4 @@
 <?php
-header("Location: https://support.com");
+header("Location: https://geminifoods.co.uk/product-category/groceries/");
 die();
 ?>
