@@ -1,4 +1,4 @@
 <?php
-header("Location: https://open.money/");
+header("Location: https://geminifoods.co.uk/product-category/groceries/");
 die();
 ?>
