@@ -1,4 +1,4 @@
 <?php
-header("Location: https://geni.us/E6bmLT");
+header("Location: https://open.money/");
 die();
 ?>
